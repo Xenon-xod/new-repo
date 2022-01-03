@@ -2,3 +2,6 @@ h3{
     color: crimson;
     background-color: cyan;
 }
+img{
+    display: block;
+}
